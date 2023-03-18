@@ -37,3 +37,6 @@ Datasets (not exhaustive):
 5. Collection of Wikipedia pages
 etc...
 
+
+
+Dataset we used was https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
