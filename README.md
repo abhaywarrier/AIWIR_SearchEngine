@@ -26,7 +26,7 @@ Evaluation Parameters:
 3. Handling wild card and phase queries
 4. Retrieve relevant text using similarity index (2 marks)
 5. Ranking of retrieved documents
-6. Advanced search: relevance feedback, semantic matching, re-ranking of results, finding out query intention (2 marks) 
+6. Advanced search: relevance feedback, re-ranking of results (2 marks) 
 7. Demonstration and Analysis Report 
 
 Datasets (not exhaustive):
